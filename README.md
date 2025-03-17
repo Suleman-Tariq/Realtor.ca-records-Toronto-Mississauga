@@ -30,12 +30,12 @@ Longitude
 Saves data in a structured format (CSV) and later converted to Excle files.
 
 
-The extracted data will be saved as real_estate_data.csv.
-
 <h4>Notes</h4>
 
 Realtor.ca has strict security measures (403 Forbidden errors may occur). To bypass this, consider using headers, proxies, or a scraping service.
 
+
+<h3>If you need more records you can contact me.</h3>
 
 <h3>Author</h3>
 
